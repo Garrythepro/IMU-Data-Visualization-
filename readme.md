@@ -12,7 +12,7 @@ Here is a list of the files in this repo:
 * plotter.py: This plots the data provided by reader.py in real-time.
 * cube.py: This visualizes the gyro data as yaw, pitch, roll provided by reader.py in real-time.
 * shared_data.py: This contains variables shared by the python files. Since, multiprocessing is used, variables need to be shared this way.
-* wiring.fzz: This is a schematic wiring diagram intended to be opened by fritzing.
+* Wiring.fzz: This is a schematic wiring diagram intended to be opened by fritzing.
 
 
 ### Requirements:
